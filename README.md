@@ -5,6 +5,11 @@
 </p>
 
 Welcome to the DSA Repository! This repository contains various data structures and algorithms implemented in different programming languages. Whether you are a beginner looking to understand the basics or an advanced learner aiming to refine your skills, this repository has something for everyone.
+### Languages 💡
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
 
 ## Table of Contents
 - [Searching Algorithms](#searching-algorithms)
