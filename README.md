@@ -8,7 +8,7 @@ Welcome to the DSA Repository! This repository contains various data structures 
 ### Languages 💡
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c" />
+    <img src="https://skillicons.dev/icons?i=c,java" />
   </a>
 
 ## Table of Contents
