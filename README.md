@@ -4,13 +4,25 @@
   <img src="https://github.com/hiteshpatil2005/Data-Structures-Algorithm/blob/main/img/New%20Project%20(11)(130).jpg" alt="DSA Repository">
 </p>
 
-Welcome to the DSA Repository! This repository contains various data structures and algorithms implemented in different programming languages. Whether you are a beginner looking to understand the basics or an advanced learner aiming to refine your skills, this repository has something for everyone.
+Welcome to the DSA Repository! This repository contains various data structures and algorithms implemented in different programming languages. Whether you are a beginner looking to understand the basics or an advanced learner aiming to refine your skills, this repository has something for everyone.<br>
 ### Languages 💡
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java" />
-  </a>
-
+  <table>
+    <tr>
+        <td align="center" width="100">
+            <a href="https://skillicons.dev">
+            <img src="https://github.com/duyu09/Duyu09/assets/92843163/9fd67c91-6e7d-42fc-b588-86e506676d14" width="48" height="48" />
+            </a>
+            <br>Java
+        </td>
+        <td align="center" width="100">
+            <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=c" />
+            </a>
+            <br>C
+        </td>
+  </tr>
+  </table>
+  
 ## Table of Contents
 - [Searching Algorithms](#searching-algorithms)
 - [Sorting Algorithms](#sorting-algorithms)
