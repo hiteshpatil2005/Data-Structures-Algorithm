@@ -4,7 +4,7 @@ class Node
 {
     int key;
     Node left,right;
-   
+    
     public Node(int key)
     {
         this.key=key;
@@ -16,8 +16,7 @@ class Node
 class BST
 {
      Node root;
-
-     //Insertion operation for binary search tree
+     
      public BST()
      {
           root=null;
@@ -35,21 +34,21 @@ class BST
                root=new Node(key);
                return root;
           }
-         
+          
           else if(root.key>key)
           {
                root.left=insertAt(root.left,key);
           }
-         
+          
           else if(root.key<=key)
           {
                root.right=insertAt(root.right,key);
           }
-         
+          
           return root;
      }
      
-     //Display operation with preorder ,postorder and inorder traversal
+     
      public void display()
      {
          int choice;
@@ -62,7 +61,7 @@ class BST
         {
             System.out.print("Inorder Traversal is : ");
             inorderTraversal(root);
-        }  
+        }   
      
      else if(choice==2)
        {
@@ -74,10 +73,10 @@ class BST
       {
            System.out.print("Postorder Traversal is : ");
            postorderTraversal(root);
-      }
-     
-     }
-     
+      } 
+      
+     } 
+      
       private void inorderTraversal(Node current_node)
        {
            if(current_node!=null)
@@ -98,7 +97,7 @@ class BST
 
              }
        }
-     
+      
        private void postorderTraversal(Node current_node)
        {
            if(current_node!=null)
@@ -107,6 +106,65 @@ class BST
                  postorderTraversal(current_node.right);
                  System.out.print(current_node.key+" ");
              }
+       } 
+       
+       
+       public void search()
+       {
+            int element;
+            Scanner sc=new Scanner(System.in);
+            System.out.print("Enter the element that you want to search : ");
+            element=sc.nextInt();
+            
+            if(searchValue(root,element))
+            {
+                System.out.print("Element is found in the tree");
+            }
+            else
+            {
+                System.out.print("Element is not found in the tree");
+            }
+       }
+       
+       
+       private boolean searchValue(Node root,int element)
+       {
+            if(root==null)
+            {
+                 return false;
+            }
+            
+            else if(root.key==element)
+            {
+                return true;
+            }
+            
+            else if(root.key>element)
+            {
+                   return searchValue(root.left,element);
+            }
+            else
+            {
+                  return searchValue(root.right,element);
+            }
+       }
+       
+       public int min(Node root)
+       {
+           while(root.left!=null)
+           {
+                root=root.left;
+           }
+           return root.key;
+       }
+       
+       public int max(Node root)
+       {
+           while(root.right!=null)
+           {
+                root=root.right;
+           }
+           return root.key;
        }
        
  }
@@ -120,29 +178,35 @@ public class BinarySearchTree
           int repeat;
           BST b = new BST();
          Scanner sc=new Scanner(System.in);
-         int choice,key;
-         
+         int choice,key,element;
+          
          do
         {
-       
-            System.out.print("Enter your choice\n1.Insert\n2.Display\n");
+        
+            System.out.print("1.Insert\n2.Display\n3.Search\n4.Min Element\n5.Max Element\nEnter your choice : ");
             choice=sc.nextInt();
 
-            switch(choice)
-           {
+            switch(choice) 
+           { 
                case 1:System.out.print("Enter the key:");
                             key=sc.nextInt();
                             b.insert(key);
                             break;
-                           
+                            
                case 2: b.display();
                             break;
-                           
-               
-                                     
-                           
+                            
+               case 3: b.search();
+                            break;
+                            
+               case 4:System.out.print("Minimum value is : "+b.min(b.root));
+                            break;
+                            
+               case 5:System.out.print("Maximum value is : "+b.max(b.root));
+                            break;                                        
+                                        
               default: System.out.print("Please enter the valid choice");
-                              break;                                          
+                              break;                                           
                
            }
            
@@ -150,7 +214,7 @@ public class BinarySearchTree
            repeat=sc.nextInt();
            
         }while(repeat!=0);
-       
-       
-     }  
+        
+        
+     }   
 }
