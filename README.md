@@ -1,4 +1,6 @@
-# Data Structures and Algorithms (DSA) Repository
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=c8f707&vCenter=true&width=500&height=70&duration=4000&lines=Data+Structures+Algorithms"/>
+</h1>
 
 <p align="center">
   <img src="https://github.com/hiteshpatil2005/Data-Structures-Algorithm/blob/main/img/New%20Project%20(11)(130).jpg" alt="DSA Repository">
@@ -24,47 +26,41 @@ Welcome to the DSA Repository! This repository contains various data structures 
   </table>
   
 ## Table of Contents
-- [Searching Algorithms](#searching-algorithms)
-- [Sorting Algorithms](#sorting-algorithms)
-- [Stack and Its Applications](#stack-and-its-applications)
-- [Queues](#queues)
-- [Singly Linked List](#singly-linked-list)
-- [Doubly Linked List](#doubly-linked-list)
+<table>
+  <tr>
+    <td>Searching Algorithm</td>
+    <td>1. Linear Search <br> 2. Binary Search</td>
+  </tr>
+  <tr>
+    <td>Sorting Algorithm</td>
+    <td>1. Bubble Sort <br> 2. Insertion Sort <br> 3. Selection Sort</td>
+  </tr>
+  <tr>
+    <td>Stack</td>
+    <td>Stack Operations :<br> 1. Push <br> 2. Pop <br> 3. Peek <br> 4. Display</td>
+  </tr>
+  <tr>
+    <td>Stack Applications</td>
+    <td>1. Balancing of Parenthesis <br>2. Decimal to Binary conversion <br> 3. Evaluation of Postfix operation</td>
+  </tr>
+  <tr>
+    <td>Queue</td>
+    <td>1. Queue Operations <br> 2. Circular Queue</td>
+  </tr>
+  <tr>
+    <td>Link List</td>
+    <td>1. Singly Link List <br> 2. Doubly Link List</td>
+  </tr>
+  <tr>
+    <td>Trees</td>
+    <td>1. Binary tree operations <br> 2. Binary Search Tree Operations <br> 3. Huffman Implementation</td>
+  </tr>
+  <tr>
+    <td>Graphs</td>
+    <td>1. Graph Implementation <br> 2. Kruskal Algorithm <br> 3. Prims Algorithm</td>
+  </tr>
+</table>
 
-## Searching Algorithms
-Searching algorithms are designed to retrieve an element from any data structure where it is stored. This section includes:
-- Linear Search
-- Binary Search
-
-## Sorting Algorithms
-Sorting algorithms are used to rearrange a given array or list of elements according to a comparison operator. This section includes:
-- Bubble Sort
-- Selection Sort
-- Insertion Sort
-
-## Stack and Its Applications
-A stack is a linear data structure which follows a particular order in which the operations are performed. The order may be LIFO (Last In First Out) or FILO (First In Last Out). This section includes:
-- Basic Stack Operations
-- Expression Evaluation
-- Balancing Parentheses
-- Infix to Postfix Conversion
-- Decimal to Binary conversion
-
-## Queues
-A queue is a linear structure which follows a particular order in which the operations are performed. The order is First In First Out (FIFO). This section includes:
-- Basic Queue Operations
-- Circular Queue
-
-## Singly Linked List
-A singly linked list is a linear data structure in which the elements are stored in nodes. Each node points to the next node by means of a pointer. This section includes:
-- Basic Operations (Insertion, Deletion, Searching)
--Implementing Singly Linked list
--Stack using Singly Linked List
-
-## Doubly Linked List
-A doubly linked list is a complex type of linked list in which a node contains a pointer to the next as well as the previous node in the sequence. This section includes:
-- Basic Operations (Insertion, Deletion, Searching)
-- Implementing a Doubly Linked List
 
 ## How to Contribute
 We welcome contributions from the community! If you have an algorithm or data structure that you would like to add, please:
@@ -74,5 +70,9 @@ We welcome contributions from the community! If you have an algorithm or data st
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Create a new Pull Request
 
-
-😊 HAPPY CODING! 😊
+<p align="center">
+  <img src="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/HourStorm.gif">
+</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=c8f707&center=true&vCenter=true&width=500&height=70&duration=4000&lines=😊+HAPPY+CODING+😊"/>
+</h1>
