@@ -6,7 +6,7 @@
   <img src="https://github.com/hiteshpatil2005/Data-Structures-Algorithm/blob/main/img/New%20Project%20(11)(130).jpg" alt="DSA Repository">
 </p>
 
-Welcome to the DSA Repository! This repository contains various data structures and algorithms implemented in different programming languages. Whether you are a beginner looking to understand the basics or an advanced learner aiming to refine your skills, this repository has something for everyone.<br>
+Welcome to the DSA Repository📈! This repository contains various Data Structures and Algorithms implementations in different programming languages. Whether you are a beginner looking to understand the basics or an advanced learner aiming to refine your skills, this repository has something for everyone.<br>
 ### Languages 💡
   <table>
     <tr>
