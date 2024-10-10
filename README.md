@@ -59,6 +59,10 @@ Welcome to the DSA Repository📈! This repository contains various Data Structu
     <td>Graphs</td>
     <td>1. Graph Implementation <br> 2. Kruskal Algorithm <br> 3. Prims Algorithm <br> 4. Breath First Search(BFS) <br> 5. Depth First Search(DFS) <br> 6. Dijkstra's Algorithm </td>
   </tr>
+     <tr>
+    <td>Hash Table</td>
+    <td>1. Hash Table(Linear Probing) <br> 2. Chaining </td>
+  </tr>
 </table>
 
 
