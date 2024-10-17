@@ -63,6 +63,10 @@ Welcome to the DSA Repository📈! This repository contains various Data Structu
     <td>Hash Table</td>
     <td>1. Hash Table(Linear Probing) <br> 2. Chaining </td>
   </tr>
+    <tr>
+    <td>Heap</td>
+    <td>1. Heap Sort </td>
+  </tr>
 </table>
 
 
