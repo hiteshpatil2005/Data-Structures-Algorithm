@@ -65,7 +65,7 @@ Welcome to the DSA Repository📈! This repository contains various Data Structu
   </tr>
     <tr>
     <td>Heap</td>
-    <td>1. Heap Sort </td>
+    <td>1. Heap Sort <br> 2. Priority Queue </td>
   </tr>
 </table>
 
