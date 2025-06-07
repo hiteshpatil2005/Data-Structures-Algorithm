@@ -11,8 +11,57 @@ Welcome to the DSA Repository📈! This repository contains various Data Structu
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+### Repository Strucutre 📂📂
+```
+Data-Structures-Repository
+├── C
+│   ├── Linked_List
+│   │   ├── Doubly_linked_list
+│   │   │   └── Doubly_linked_list_program.c
+│   │   ├── Singly_Linked_List
+│   │   │   ├── Simple_linked_list.c
+│   │   │   └── Singly_linked_list.c
+│   │   └── Stack_using_singly_link_list.c
+│   ├── Queue
+│   │   ├── Circular_queue.c
+│   │   └── Queue_operation.c
+│   ├── Searching
+│   │   ├── Binary_search.c
+│   │   └── Linear_search.c
+│   ├── Sorting Algorithms
+│   │   ├── Bubble_sort.c
+│   │   ├── Insertion_sort.c
+│   │   └── Selection_sort.c
+│   └── Stack
+│       ├── applications_of_stack
+│       └── stack_operations.c
+├── Java
+│   ├── Graphs
+│   │   ├── BFS.java
+│   │   ├── DFS.java
+│   │   ├── Dijkstra.java
+│   │   ├── Graph.java
+│   │   ├── Kruskal.java
+│   │   └── Prims_Algorithm.java
+│   ├── Hash Table
+│   │   ├── Chaining.java
+│   │   └── HashTable.java
+│   ├── Heap
+│   │   ├── HeapSort.java
+│   │   └── PriorityQueue.java
+│   └── Trees
+│       ├── BinarySearchTree.java
+│       ├── BinaryTree.java
+│       └── HuffmanTree.java
+├── Roadmap
+│   └── DSA Roadmap.pdf
+├── img
+└── README.md
+```
+
   
-## Table of Contents
+## Table of Contents ⬇️⬇️
 <table>
   <tr>
     <td>Searching Algorithm</td>
