@@ -8,22 +8,9 @@
 
 Welcome to the DSA Repository📈! This repository contains various Data Structures and Algorithms implementations in different programming languages. Whether you are a beginner looking to understand the basics or an advanced learner aiming to refine your skills, this repository has something for everyone.<br>
 ### Languages 💡
-  <table>
-    <tr>
-        <td align="center" width="100">
-            <a href="https://skillicons.dev">
-            <img src="https://github.com/duyu09/Duyu09/assets/92843163/9fd67c91-6e7d-42fc-b588-86e506676d14" width="48" height="48" />
-            </a>
-            <br>Java
-        </td>
-        <td align="center" width="100">
-            <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=c" />
-            </a>
-            <br>C
-        </td>
-  </tr>
-  </table>
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   
 ## Table of Contents
 <table>
