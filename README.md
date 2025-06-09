@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/hiteshpatil2005/Data-Structures-Algorithm/blob/main/img/New%20Project%20(11)(130).jpg" alt="DSA Repository">
+  <img src="https://t3.ftcdn.net/jpg/06/39/58/36/240_F_639583664_nAQdlXn0MEilgL6Kf6jOJQ9d3UpxXEpm.jpg" alt="DSA Repository" width ="1000" height="300">
 </p>
 
 Welcome to the DSA Repository📈! This repository contains various Data Structures and Algorithms implementations in different programming languages. Whether you are a beginner looking to understand the basics or an advanced learner aiming to refine your skills, this repository has something for everyone.<br>
